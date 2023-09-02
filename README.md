@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<!--  <h2 align="left">Hi 👋! My name is Shourya Mittal and I'm a CSE student, from VIT,Vellore</h2>
 
 ###
 
@@ -63,3 +63,4 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
+-->
